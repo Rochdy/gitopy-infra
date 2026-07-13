@@ -8,7 +8,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: rochdy/multienvsapi:v0.0.1
+          image: rochdy/multienvsapi:abc61d338ba19897347b731096eca33a271524f5
           env:
             - name: ENV_NAME
               value: "production"
