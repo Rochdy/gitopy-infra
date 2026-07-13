@@ -8,5 +8,5 @@ spec:
   type: NodePort
   ports:
     - port: 80
-      targetPort: 3000 # بورت الأبلكيشن جوه الـ Container
-      nodePort: 30007  # البورت الخارجي اللي هيتفتح على الـ Node وتقدر تفتح بيه الأبلكيشن في المتصفح
+      targetPort: 3000
+      nodePort: 30007

@@ -5,4 +5,4 @@ metadata:
 spec:
   ports:
     - port: 80
-      nodePort: 30009  # البورت الخارجي اللي هيتفتح على الـ Node وتقدر تفتح بيه الأبلكيشن في المتصفح
+      nodePort: 30009
