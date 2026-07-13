@@ -8,7 +8,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: rochdy/multienvsapi:da285183ce550f4741ad40b657f544d47190cfc8
+          image: rochdy/multienvsapi:abc61d338ba19897347b731096eca33a271524f5
           env:
             - name: ENV_NAME
               value: "staging"
